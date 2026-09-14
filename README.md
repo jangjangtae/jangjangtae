@@ -17,14 +17,14 @@ IEEE Access, 2026 · First Author
 
 [Repository](https://github.com/jangjangtae/coverageguidedexploration)
 
-### FATE: Fault-Seeking Adaptation with Transition Excess for Game Testing
+### World-Model-Based Policy Adaptation for Game Testing
 **Craftax · DreamerV3 · World Models · Policy Adaptation**  
 First Author · Under Review
 
 - Studies policy adaptation for broader fault exposure while preserving task competence.
-- Uses a frozen clean-reference world model, clean calibration, and a transition-based auxiliary signal.
-- Evaluated with Seen / Holdout / Sparse fault conditions and matched multi-seed experiments.
-- **Code is kept private while the manuscript is under review.**
+- Explores world-model-based auxiliary signals for adapting agent behavior during game testing.
+- Evaluated under multiple fault conditions with matched multi-seed experiments.
+- **Implementation details and code are kept private while the manuscript is under review.**
 
 ### Overcoming Exploration Stagnation in Reinforcement Learning-Based Automated Game Testing (BEAGT)
 **DQN · ε-greedy · Softmax Exploration · Automated Game Testing**  
@@ -50,7 +50,7 @@ Journal of Digital Contents Society, 2025 · First Author
 
 - **Tae-Hyeon Jang**, Hyeon-Uk Lee, Hyunseok Kim, *Coverage-Aware Guidance for Novelty-Driven Exploration in Automated Game Testing under Sparse-Reward 3D Environments*, IEEE Access, 2026.
 - **Tae-Hyeon Jang**, Yeajin Lee, Hyunseok Kim, *Overcoming Exploration Stagnation in Reinforcement Learning-Based Automated Game Testing*, Journal of Digital Contents Society, 2025.
-- **Tae-Hyeon Jang**, Hyeon-Uk Lee, Hyunseok Kim, *FATE: Fault-Seeking Adaptation with Transition Excess for Game Testing*, Under Review.
+- First-author manuscript under review on **world-model-based policy adaptation for automated game testing**. Implementation and exact manuscript details are not publicly disclosed.
 
 ## Links
 
