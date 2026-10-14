@@ -5,6 +5,11 @@ M.S. Candidate in Computer Engineering, Dong-A University · Expected Feb. 2027
 
 I research reinforcement learning agents for game environments, focusing on **exploration, reward design, policy adaptation, world models, and agent evaluation**. My work covers environment/benchmark construction, learning-pipeline implementation, reward and exploration design, and reproducible multi-seed evaluation.
 
+## Awards & Honors
+
+- **Outstanding Paper Award (우수논문상)** — Korea Multimedia Society (한국멀티미디어학회)
+- **Outstanding Paper Presentation Award (우수논문 발표상)** — Korea Game Society Spring Conference, 2026 (한국게임학회 춘계 학술발표대회)
+
 ## Selected Research
 
 ### Coverage-Aware Guidance for Novelty-Driven Exploration (RND+CAE)
