@@ -17,14 +17,15 @@ IEEE Access, 2026 · First Author
 
 [Repository](https://github.com/jangjangtae/coverageguidedexploration)
 
-### World-Model-Based Policy Adaptation for Game Testing
-**Craftax · DreamerV3 · World Models · Policy Adaptation**  
-First Author · Under Review
+### World-Model-Based Policy Reuse and Adaptation for Automated Game Testing (FATE)
+**Craftax · DreamerV3 · World Models · Reinforcement Learning**  
+Ongoing Research
 
-- Studies policy adaptation for broader fault exposure while preserving task competence.
-- Explores world-model-based auxiliary signals for adapting agent behavior during game testing.
-- Evaluated under multiple fault conditions with matched multi-seed experiments.
-- **Implementation details and code are kept private while the manuscript is under review.**
+- Investigates how pretrained gameplay policies and world models can be reused for automated game testing.
+- Develops a test-oriented policy adaptation method using auxiliary rewards derived from temporal changes in frozen reference world-model surprise.
+- Evaluates how additional adaptation, reward design, and reference selection affect gameplay performance and fault exposure.
+- Examines the effectiveness and limitations of policy adaptation through controlled experiments.
+- **Implementation and experimental code are currently private.**
 
 ### Overcoming Exploration Stagnation in Reinforcement Learning-Based Automated Game Testing (BEAGT)
 **DQN · ε-greedy · Softmax Exploration · Automated Game Testing**  
@@ -59,9 +60,9 @@ Journal of Digital Contents Society, 2025 · First Author
 
 - **장태현**, 옥수열, 이석환, 김현석, *복합재난 대응 시뮬레이션 확장을 위한 월드 모델 기반 게임 결함 탐지 가능성 분석*, **한국게임학회 춘계 학술발표대회**, 2026. **(First Author · 우수논문 발표상)**
 
-### Manuscript Under Review
+### Ongoing Manuscript
 
-- First-author manuscript on **world-model-based policy adaptation for automated game testing**. Implementation and exact manuscript details are not publicly disclosed.
+- First-author research manuscript on **world-model-based policy reuse and test-oriented adaptation for automated game testing**. Additional experiments and manuscript revisions are in progress; implementation details and code are not publicly disclosed.
 
 ## Links
 
