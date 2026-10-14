@@ -7,8 +7,19 @@ I research reinforcement learning agents for game environments, focusing on **ex
 
 ## Awards & Honors
 
-- **Outstanding Paper Award (우수논문상)** — Korea Multimedia Society (한국멀티미디어학회)
-- **Outstanding Paper Presentation Award (우수논문 발표상)** — Korea Game Society Spring Conference, 2026 (한국게임학회 춘계 학술발표대회)
+- **Outstanding Paper Presentation Award** — Korea Game Society Spring Conference, 2026
+- **Outstanding Paper Award** — Korea Digital Contents Society Summer Conference, 2026
+- **Academic Research Award** — Korea Multimedia Society, Feb. 2025
+- **Best Paper Award** — Korea Multimedia Society Fall Conference, 2024
+
+## Research Grants & Scholarships
+
+- **NRF M.S. Research Fellowship** — Sep. 2025 – Aug. 2026  
+  National Research Foundation of Korea (NRF)  
+  *Research Topic: Reinforcement Learning-Based Automated Framework for Game Quality Assurance*  
+  Individual research support for reinforcement-learning-based game QA automation; research outputs include first-author work on automated game testing and fault discovery.
+- **KOSAF Outstanding Science & Engineering Scholarship for M.S. Students** — Jun. 2026 – Present
+- **KOSAF Professional Technical Talent Scholarship** — Mar. 2022 – Sep. 2022
 
 ## Selected Research
 
